@@ -57,7 +57,3 @@ The statistical techniques include:
 
 ## Conclusion
 The research finds that the availability of digital facilities alone does not necessarily translate into improved academic performance. A comprehensive approach involving effective classroom integration, teacher training, quality digital content, and equitable infrastructure is essential for improving the effectiveness of digital education in India.
-
-## Author
-**Bhavye Jain**  
-Registration Number: 245PGE009
